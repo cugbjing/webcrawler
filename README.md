@@ -1,5 +1,8 @@
 # webcrawler
 Project for the course of learning http
+https://www.youtube.com/watch?v=2JYT5f2isg4&t=588s
+
+To run the code: `npm start https://wagslane.dev`
 
 ## What I learned
 - Test driven development using Jest, use script `npm test` to run
